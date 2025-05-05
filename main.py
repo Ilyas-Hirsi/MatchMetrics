@@ -5,7 +5,7 @@ from collections import OrderedDict
 
 
 #  api key 
-API_KEY = "RGAPI-719eae15-42a4-480d-bbc6-d0bbeb983e43"
+API_KEY = "API_KEY"
 
 # Setting API endpoints
 REGION = "na1"
